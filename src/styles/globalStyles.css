@@ -1,0 +1,32 @@
+:root {
+  --color01: #000000;
+  --color02: #4469ce;
+  --color03: white;
+  --boxColor: #686565;
+  --borderColor: #242424;
+  --light: #808080;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-size: 18px;
+  height: 100%;
+  background-color: var(--color01);
+  font-family: "Fira Code", monospace, Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.dark {
+  background: var(--light);
+}
