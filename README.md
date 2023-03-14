@@ -4,7 +4,7 @@
 
 <h2>💻 Introdução</h2>
 
-<p>Este é o meu portfólio pessoal, onde eu compartilho informações sobre os meus projetos, habilidades e experiências, além de ser um site responsivo</p>
+<p>Este é o meu portfólio pessoal, onde eu compartilho informações sobre os meus projetos, habilidades e experiências, além de ser um site responsivo.</p>
 <p>Nele eu faço a apresentação inicial, falo um pouco sobre mim, mostro as tecnologias que possuo conhecimento, apresento meus projetos e por fim, possui as informações para entrar em contato comigo.</p>
 
 <h2>🚀 Tecnologias</h2>
